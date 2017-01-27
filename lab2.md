@@ -29,3 +29,5 @@ https://github.com/mmetro/WeirdSideofYouTube|Yes|MIT License
 https://github.com/Stashmatic/ARAS|Yes|MIT License
 https://github.com/samuelyuan/AtomForum|Yes|MIT License
 https://github.com/kburk1997/betterebinder|Yes|MIT License
+
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
